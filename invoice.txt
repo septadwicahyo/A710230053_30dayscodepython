@@ -1,8 +1,3 @@
-------------RINCIAN------------
-Jumlah Buku   : 2
-Harga Buku    : Rp. 4000
-
-TOTAL         : Rp. 8000
 Rincian Belanja:
 Apel: 5000
 Pisang: 3000
